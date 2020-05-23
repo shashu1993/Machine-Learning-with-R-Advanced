@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1581662128276.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "448218895",
+    "id" : "B7538811",
+    "lastKnownWriteTime" : 1570405907,
+    "last_content_update" : 1570405907,
+    "path" : "~/Desktop/Semester 1/Frameworks 1/Linear Reg2.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "6,65",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

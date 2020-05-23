@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1581662034471.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "751409126",
+    "id" : "2213673A",
+    "lastKnownWriteTime" : 1581671052,
+    "last_content_update" : 1581671052131,
+    "path" : "~/Desktop/Semester 2/Frameworks 2/Framework2/Assignment1.R",
+    "project_path" : "Assignment1.R",
+    "properties" : {
+        "cursorPosition" : "90,0",
+        "scrollLine" : "85",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

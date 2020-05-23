@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1581662396234.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3735493996",
+    "id" : "F1F47DEB",
+    "lastKnownWriteTime" : 1574407328,
+    "last_content_update" : 1574407328,
+    "path" : "~/Desktop/Semester 1/Frameworks 1/Kaggle competition/code1.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "3,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
